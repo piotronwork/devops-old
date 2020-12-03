@@ -74,6 +74,6 @@
 		</plugins>
 	</build>
 
-        <packaging>war</packaging>
+        <!-- <packaging>war</packaging> -->
 	
 </project>
